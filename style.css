@@ -215,7 +215,11 @@ body {
     }
 
     .heading-container h1 {
+<<<<<<< HEAD
         font-size: 2rem;
+=======
+        font-size: 26px;
+>>>>>>> 8677f1b77bc611f3b2cac2de282101b0d14513a5
         letter-spacing: 0;
     }
 
@@ -241,7 +245,7 @@ body {
     }
 
     .heading-container h1 {
-        font-size: 1.2em;
+        font-size: 2rem;
     }
 
     .menu-btn {
